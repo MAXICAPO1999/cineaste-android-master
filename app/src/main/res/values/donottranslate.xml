@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="importMovies">Import</string>
+    <string name="exportMovies">Export</string>
+    <string name="about">About</string>
+    <string name="state">state</string>
+    <string name="watchlistState">watchlist</string>
+    <string name="historyState">history</string>
+    <string name="searchState">search</string>
+    <string name="matchState">match</string>
+    <string name="counter">counter</string>
+    <string name="gradient">gradient</string>
+    <string name="banner">Banner</string>
+    <string name="version">Version %s</string>
+    <string name="expand">Expand</string>
+    <string name="shrink">Shrink</string>
+    <string name="movieKey">12b426c85d2f8b1b12598b263fd09f1b</string>
+</resources>

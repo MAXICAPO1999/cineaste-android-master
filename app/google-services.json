@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58706708417",
+    "project_id": "appcineasta",
+    "storage_bucket": "appcineasta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58706708417:android:2733694d1730851400d140",
+        "android_client_info": {
+          "package_name": "de.cineaste.android.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58706708417-6fo9dd2ppu4ppmjh4mtn06jpvn68p5f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxt5k-mwWvJutrzaYLHzIpeKVyK84haIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58706708417-6fo9dd2ppu4ppmjh4mtn06jpvn68p5f5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
