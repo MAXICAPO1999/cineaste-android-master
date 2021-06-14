@@ -19,15 +19,7 @@ We are using [theMovieDb][theMovieDb] to get access to the big movie data univer
 
 ## How to build
 
-1. Get a [theMovieDb][theMovieDb] key.
-2. Create `secrets.xml` in `res/values` and place your moviedb key inside it.
-```xml
-    <?xml version="1.0" encoding="utf-8"?>
-    <resources>
-        <string name="movieKey">XXXX</string>
-    </resources>
-```
-3. Continue with normal development or building process.
+1. Se creo una cuenta en [theMovieDb][theMovieDb] Se asocio la clave en el proyecto, Seguidamente de eso se depuro la aplicacion, para poder obtener y enviar el titulo de la pelicula y su calificacion a google analytics asociando el archivo google-services.json.
 
 ## License
 
